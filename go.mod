@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/vul-enforcer
 
-go 1.21.0
+go 1.22.1
 
 require (
 	github.com/cloudflare/cfssl v1.6.4 // indirect
